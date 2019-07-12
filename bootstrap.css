@@ -1,0 +1,13 @@
+body{
+    background: url(http://lakehoustoncb.com/wp-content/uploads/parser/marble-background-tumblr-1.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+textarea{
+    border: lightslategray solid;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+label{
+    font-size: 22px
+}

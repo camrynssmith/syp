@@ -1,0 +1,36 @@
+ul li a{
+    border: cornflowerblue 7px solid;
+}
+.pink{
+    color: palevioletred
+}
+.green{
+    color: green
+}
+.blue{
+    color: blue
+}
+h3 + h4{
+    color: darkmagenta
+}
+h4 + p{
+    color: grey
+}
+h5{
+    text-decoration: deeppink overline underline wavy
+}
+.white{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    text-decoration: darkseagreen underline
+}
+.yellow{
+    text-decoration: aquamarine underline wavy;
+    color: grey;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.orange{
+    color: darkslategrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: tomato overline wavy
+}
